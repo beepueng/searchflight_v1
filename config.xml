@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap ="http://phonegap.com/ns/1.0"
+        id = "com.phonegap.searchflight_v1"
+        version = "1.0.0">
+
+    <name>searchflight_v1</name>
+    
+    <description>
+        This app is sample application.
+    </description>
+    
+    <author href = "https://build.phonegap.com" email="bebear1994@gmail.com">
+        Beepueng
+    </author>
+
+
+</widget>
